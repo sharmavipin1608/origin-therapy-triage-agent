@@ -11,7 +11,6 @@ The `docs/` directory contains the full design and decision record for this subm
 - `docs/decisions/decisions.md` — every architectural decision with rationale and tradeoffs (D001–D029)
 - `docs/phase-1-design.md`, `docs/phase-2-design.md` — phased implementation plans
 - `docs/observability-design.md` — design for token tracking (not implemented; see "What I Chose Not to Build")
-- `docs/proofs/phase-2/` — output snapshot, tool trace, and verification report from the final triage run
 
 ---
 
