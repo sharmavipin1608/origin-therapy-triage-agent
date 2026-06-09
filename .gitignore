@@ -1,4 +1,6 @@
+.claude/
 node_modules/
+docs/proofs/
 dist/
 .trace/
 _internal/
